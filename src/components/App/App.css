@@ -1,0 +1,415 @@
+.side{
+ 
+  margin: 0% 3% 0% 3%;
+  margin-top: 60px;
+ 
+  display: flex;
+  width: 20%;
+  float: right;
+  margin: 0% 3% 0% 3%;
+  margin-top: 60px;
+  flex-direction: column;
+
+ 
+}
+
+p{
+  padding: 5%;
+  line-height: 2;
+  font-size: 17px;
+}
+
+h1{
+  padding-top: 0%;
+  padding-bottom: 0%;
+  line-height: 2;
+  font-size: 30px;
+}
+
+
+.component{
+  position: fixed;
+}
+
+.info{
+ 
+ 
+  margin-top: 0.5em;
+  background: rgba(0, 87, 146, 0.5);
+  color: white;
+ 
+}
+
+.main{
+  width: 64%;
+  float: left;
+ 
+  background: rgba(0, 87, 146, 0.5);
+  margin: 0% 3% 0% 3%;
+  margin-top: 60px;
+  color: white;
+ 
+ 
+ 
+}
+
+img{
+  width: 100%;
+}
+
+ 
+ 
+
+ 
+
+.ed1, .ed2, .ed3 {
+  width: 31.3%;
+  float: left;
+}
+
+.ex1 {
+  float: left;
+}
+.ex2 {
+  margin: 0% 3%;
+}
+.ex3 {
+  float: right;
+  margin: 0%;
+}
+
+.ed1 {
+  float: left;
+}
+.ed2 {
+  margin: 0% 3%;
+}
+.ed3 {
+  float: right;
+  margin: 0%;
+}
+
+.logo{
+  width: 60%;
+  float: left;
+  padding-left: 10%;
+}
+
+
+.pic1{
+  padding-top: 25%;
+  padding-bottom: 25%;
+
+}
+
+.pic2{
+  padding-top: 16%;
+}
+
+.pic3{
+  padding-top: 16%;
+}
+
+.Job1{
+  padding-top: 0%;
+}
+
+.me1{
+  columns: 2;
+  overflow: hidden;
+  padding-top: 2%;
+}
+
+@media all and (max-width: 660px) {
+  .me1 {
+    columns: 1;
+  }
+
+  .main{
+    float: none;
+    width: 100%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-top: 15%;
+  }
+
+ 
+ 
+  
+ 
+
+  .component{
+    position: static;
+    background-color: #333;
+  }
+
+  .home{
+    background-color: #333;
+  }
+
+  .portfolio{
+    background-color: #333;
+  }
+
+  .education{
+    background-color: #333;
+  }
+
+  .experience{
+    background-color: #333;
+  }
+
+}
+
+@media all and (max-width: 390px){
+  .main{
+    padding-top: 15%;
+  }
+}
+
+p, h1{
+  font-family: 'Roboto Slab', serif;
+}
+
+@media all and (max-width: 441px){
+  .container3{
+    padding-top: 0.5em;
+  }
+}
+
+@media all and (max-width: 340px){
+  .container3{
+    padding-top: 0.5em;
+  }
+
+}
+
+.container1{
+  margin-bottom: 1em;
+  overflow: hidden;
+}
+
+.container2{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  overflow: hidden;
+}
+.container3{
+  margin-bottom: 2em;
+}
+
+ 
+ 
+.Job1, .Job2, .Job3, .Job4, .Job5, .Job6{
+ 
+  margin-bottom: 2em;
+}
+
+li{
+  margin-bottom: 0.7em;
+  padding:0% 5% 0% 5%;
+}
+
+.btn{
+  margin: 5% 0% 5% 0%;
+  margin-left: 40%;
+}
+
+.Degree1{
+  width: 100%;
+  overflow: hidden;
+}
+
+.skill{
+  width: 70%;
+  overflow: hidden;
+}
+
+@media all and (max-width: 500px){
+  .skill{
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .skill-name{
+    width: 26%;
+    margin: 0% 1.5% 0% 1.5%;
+  }
+
+  .bar1{
+    width: 55%;
+    background-color: white;
+    height: 1em;
+    margin: 0.8% 1.5% 0% 1.5%;
+  }
+
+}
+
+.skill-name{
+  width: 21%;
+  margin: 0% 1.5% 0% 1.5%;
+}
+
+.bar1{
+  width: 60%;
+  background-color: white;
+  height: 1em;
+  margin: 0.8% 1.5% 0% 1.5%;
+}
+
+.progress1{
+  width: 85%;
+  background-color: #333;
+  height: 100%;
+}
+
+.percent{
+  width: 10%;
+  float: right;
+  margin: 0% 1.5% 0% 1.5%;
+} 
+
+.skill-name, .bar1, .percent{
+  float: left;
+}
+
+.progress2{
+  width: 83%;
+  background-color: #333;
+  height: 100%;
+}
+
+.progress3{
+  width: 88%;
+  background-color: #333;
+  height: 100%;
+} 
+
+.progress4{
+  width: 92%;
+  background-color: #333;
+  height: 100%;
+}
+
+.progress5{
+  width: 89%;
+  background-color: #333;
+  height: 100%;
+}
+
+.progress6{
+  width: 86%;
+  background-color: #333;
+  height: 100%;
+}
+
+.progress7{
+  width: 77%;
+  background-color: #333;
+  height: 100%;
+}
+
+.progress8{
+  width: 82%;
+  background-color: #333;
+  height: 100%;
+}
+
+.progress9{
+  width: 76%;
+  background-color: #333;
+  height: 100%;
+}
+
+
+
+ 
+ 
+#button1, #button2{
+ 
+  margin: 0% 0% 0% 0%;
+  padding: 0% 0% 0% 0%;
+  width: 100%;
+  height: 2.5em;
+ 
+  background-color: #005792;
+}
+
+#button2, #button3{
+  margin: 0 40% 0 40%;
+  width: 20%;
+  background-color: #005792;
+ 
+ 
+ 
+}
+
+#text-resume{
+  font-size: 20px;
+  margin: 0% 0% 0% 0%;
+  padding: 0% 0% 0% 0%;
+}
+
+.port-img{
+  width: 35%;
+  float: left;
+  padding: 2.5% 0% 2.5% 3.75%;
+  margin: 0%;
+}
+
+.port-container{
+  width: 60%;
+  float: right;
+  padding: 2.5% 3.75% 2.5% 0%;
+  margin: 0%;
+}
+
+.port1, .port2{
+  border-style: solid;
+ 
+  border-color: white;
+  width: 90%;
+  margin: 5%;
+  float: left;
+  
+ 
+ 
+ 
+}
+
+.port-title{
+  padding-left: 2.5%;
+ 
+}
+
+.ex1, .ex2, .ex3, .ex4, .ex5, .ex6{
+  display: flex;
+  flex-direction: column;
+  width: 31.3%;
+  float: left;
+  align-items: center;
+  justify-content: flex-end;
+  height: 400px;
+  text-decoration: none;
+  color: white;
+}
+
+
+.ex4 {
+  float: left;
+  margin: 10px 0 0 0;
+}
+.ex5 {
+  margin: 10px 3% 0 3%;
+}
+.ex6 {
+  float: right;
+  margin: 10px 0 0 0;
+}
+ 
+ 
+
+.spain{
+  width: 100%;
+}
+ 

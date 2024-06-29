@@ -1,0 +1,50 @@
+.topnav {
+ 
+ 
+    background-color: #005792;
+ 
+    overflow: hidden;
+    width: 100%;
+    position: fixed;
+    z-index: 9999;
+ 
+ 
+    
+ 
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+ 
+ 
+    background-color: white;
+ 
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  @media all and (max-width: 390px) {
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 10.5px 12.5px;
+      text-decoration: none;
+      font-size: 13.5px;
+    }
+  }
