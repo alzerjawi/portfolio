@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc2b24d4.css",
-    "main.js": "/static/js/main.19a1b76f.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/hassan_spain.jpg": "/static/media/hassan_spain.3af3b438cf3afdfacaeb.jpg",
-    "static/media/file.png": "/static/media/file.d1990a6afb862e5b1b74.png",
-    "static/media/VCS.png": "/static/media/VCS.336090392a7ee1cfc1cc.png",
-    "static/media/Portfolio.png": "/static/media/Portfolio.32143a6e75b60d7d8a6d.png",
-    "static/media/Al-Turath.png": "/static/media/Al-Turath.962ae84f0301595b436d.png",
-    "static/media/MSU.png": "/static/media/MSU.f0be58018b34baf4f4c6.png",
-    "static/media/swisspro.png": "/static/media/swisspro.44e38487f4b29cab8256.png",
-    "static/media/resume.pdf": "/static/media/resume.8cd6f27bde5c93fab9b5.pdf",
-    "static/media/westminster.png": "/static/media/westminster.4c306403f9b65030644a.png",
-    "index.html": "/index.html",
-    "main.fc2b24d4.css.map": "/static/css/main.fc2b24d4.css.map",
-    "main.19a1b76f.js.map": "/static/js/main.19a1b76f.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.fc2b24d4.css",
+    "main.js": "/my-portfolio/static/js/main.ecd84399.js",
+    "static/js/453.1407b060.chunk.js": "/my-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/hassan_spain.jpg": "/my-portfolio/static/media/hassan_spain.3af3b438cf3afdfacaeb.jpg",
+    "static/media/file.png": "/my-portfolio/static/media/file.d1990a6afb862e5b1b74.png",
+    "static/media/VCS.png": "/my-portfolio/static/media/VCS.336090392a7ee1cfc1cc.png",
+    "static/media/Portfolio.png": "/my-portfolio/static/media/Portfolio.32143a6e75b60d7d8a6d.png",
+    "static/media/Al-Turath.png": "/my-portfolio/static/media/Al-Turath.962ae84f0301595b436d.png",
+    "static/media/MSU.png": "/my-portfolio/static/media/MSU.f0be58018b34baf4f4c6.png",
+    "static/media/swisspro.png": "/my-portfolio/static/media/swisspro.44e38487f4b29cab8256.png",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.8cd6f27bde5c93fab9b5.pdf",
+    "static/media/westminster.png": "/my-portfolio/static/media/westminster.4c306403f9b65030644a.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.fc2b24d4.css.map": "/my-portfolio/static/css/main.fc2b24d4.css.map",
+    "main.ecd84399.js.map": "/my-portfolio/static/js/main.ecd84399.js.map",
+    "453.1407b060.chunk.js.map": "/my-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc2b24d4.css",
-    "static/js/main.19a1b76f.js"
+    "static/js/main.ecd84399.js"
   ]
 }
