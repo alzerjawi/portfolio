@@ -34,7 +34,7 @@ function App() {
           <Route exact path='/education'>
             <Education />
           </Route>
-          <Route exact path='/portfolio'>
+          <Route exact path='/portfolioo'>
             <Portfolio />
           </Route>
         </Switch>
