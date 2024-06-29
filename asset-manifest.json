@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/experience/static/css/main.fc2b24d4.css",
-    "main.js": "/experience/static/js/main.bb9d3bea.js",
-    "static/js/453.1407b060.chunk.js": "/experience/static/js/453.1407b060.chunk.js",
-    "static/media/hassan_spain.jpg": "/experience/static/media/hassan_spain.3af3b438cf3afdfacaeb.jpg",
-    "static/media/file.png": "/experience/static/media/file.d1990a6afb862e5b1b74.png",
-    "static/media/VCS.png": "/experience/static/media/VCS.336090392a7ee1cfc1cc.png",
-    "static/media/Portfolio.png": "/experience/static/media/Portfolio.32143a6e75b60d7d8a6d.png",
-    "static/media/Al-Turath.png": "/experience/static/media/Al-Turath.962ae84f0301595b436d.png",
-    "static/media/MSU.png": "/experience/static/media/MSU.f0be58018b34baf4f4c6.png",
-    "static/media/swisspro.png": "/experience/static/media/swisspro.44e38487f4b29cab8256.png",
-    "static/media/resume.pdf": "/experience/static/media/resume.8cd6f27bde5c93fab9b5.pdf",
-    "static/media/westminster.png": "/experience/static/media/westminster.4c306403f9b65030644a.png",
-    "index.html": "/experience/index.html",
-    "main.fc2b24d4.css.map": "/experience/static/css/main.fc2b24d4.css.map",
-    "main.bb9d3bea.js.map": "/experience/static/js/main.bb9d3bea.js.map",
-    "453.1407b060.chunk.js.map": "/experience/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/static/css/main.fc2b24d4.css",
+    "main.js": "/static/js/main.19a1b76f.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/hassan_spain.jpg": "/static/media/hassan_spain.3af3b438cf3afdfacaeb.jpg",
+    "static/media/file.png": "/static/media/file.d1990a6afb862e5b1b74.png",
+    "static/media/VCS.png": "/static/media/VCS.336090392a7ee1cfc1cc.png",
+    "static/media/Portfolio.png": "/static/media/Portfolio.32143a6e75b60d7d8a6d.png",
+    "static/media/Al-Turath.png": "/static/media/Al-Turath.962ae84f0301595b436d.png",
+    "static/media/MSU.png": "/static/media/MSU.f0be58018b34baf4f4c6.png",
+    "static/media/swisspro.png": "/static/media/swisspro.44e38487f4b29cab8256.png",
+    "static/media/resume.pdf": "/static/media/resume.8cd6f27bde5c93fab9b5.pdf",
+    "static/media/westminster.png": "/static/media/westminster.4c306403f9b65030644a.png",
+    "index.html": "/index.html",
+    "main.fc2b24d4.css.map": "/static/css/main.fc2b24d4.css.map",
+    "main.19a1b76f.js.map": "/static/js/main.19a1b76f.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc2b24d4.css",
-    "static/js/main.bb9d3bea.js"
+    "static/js/main.19a1b76f.js"
   ]
 }
